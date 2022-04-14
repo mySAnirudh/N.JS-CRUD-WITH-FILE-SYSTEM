@@ -1,0 +1,13 @@
+
+
+     *** CRUD with File System *** 
+     1. Make File
+     2. Read FIle 
+     3. Update File
+     4. Rename File
+     5. Delete File
+     6. Delete File
+     
+     ** Crud with Database is also 
+     ** CRUD fill from :- Create  Read Update Delete 
+     ** Rename is also not a part of CRUD 
